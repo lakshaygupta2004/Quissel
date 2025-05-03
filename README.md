@@ -283,7 +283,7 @@ Install mern-chat-app using one of the following methods:
 
 1. Clone the mern-chat-app repository:
 	```
-	git clone 
+	git clone https://github.com/lakshaygupta2004/Quissel.git
 	```
 
 2. Navigate to the project directory:
