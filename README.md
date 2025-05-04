@@ -11,7 +11,12 @@
     <img src="frontend\src\assets\Quissel.PNG" alt="">
   </div>
 </div>
-	
+
+
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://quissel.vercel.app/)
+
 ### Conversa is a chat-app with various features like:
 -   🔐 **Authentication**:  
     ✨ SignUp,  
